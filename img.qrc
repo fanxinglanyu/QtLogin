@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/img2.jpg</file>
+        <file>img/logn4.png</file>
+        <file>img/logn6.png</file>
+        <file>img/yasuo.gif</file>
+        <file>music/LOL.mp3</file>
+    </qresource>
+</RCC>
